@@ -1,0 +1,2 @@
+﻿ALTER TABLE Complaints
+ADD ImagePath NVARCHAR(255)
