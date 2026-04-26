@@ -69,7 +69,7 @@ The system provides role-based access for Students, Admin, and HOD to ensure pro
 ---
 
 ## 👨‍💻 Author
-Your Name
+Shivraj Patil
 
 ---
 
